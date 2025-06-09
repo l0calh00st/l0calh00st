@@ -111,7 +111,8 @@ Lalu bilang:
 ---
 
 
+<div align="center">
 
-> — *Mar’i Shofiyana, 2025*
+*Mar’i Shofiyana, 2025*
 
----
+</div>
