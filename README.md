@@ -71,8 +71,8 @@ Lalu bilang:
 
 <div align="center">
     
-    Koding itu seni. Bug itu tantangan. Solusi adalah kemenangan.
-    
+  **Koding itu seni. Bug itu tantangan. Solusi adalah kemenangan.**
+  
 </div>
 
 ## 🔤 Markdown Tips di GitHub
