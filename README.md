@@ -26,3 +26,11 @@ Here are some ideas to get you started:
 ![https://web.whatsapp.com/](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![https://www.instagram.com/sk1p_my/](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 
 ![Mar'i GitHub stats](https://github-readme-stats.vercel.app/api?username=l0calh00st&show_icons=true&theme=radical)
+
+
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
+
